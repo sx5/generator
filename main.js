@@ -15,7 +15,7 @@ function download(filename, text) {
   document.body.appendChild(element);
 
   element.click();
-
+//oxe
   document.body.removeChild(element);
 }
 function generate() {
